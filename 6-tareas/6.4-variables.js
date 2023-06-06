@@ -1,7 +1,7 @@
 var movies = [
     { name: 'harry potter', director: 'juanito', actors: ['daniel', 'emma'] },
     { name: 'avengers', director: 'juanito2', actors: [ { name: 'chris', age: 40 }, { name: 'robert', age: 55 } ] },
-   ];
+];
 
 // imprimir juanito2
 // imprimir chris
